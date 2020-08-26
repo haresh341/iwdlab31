@@ -1,0 +1,21 @@
+.header{
+    background-color: #fff;
+    color: #33ccff;
+    padding: 50px;
+}
+#heading{
+    color: #fff;
+    text-align: left;
+    font-family: 'Leckerli One', cursive;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.card{
+    margin:  20px 300px 100px;
+    padding: 40px;
+    border-radius: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 70%);
+}
